@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **projects like WebDev, AI/ML**
 
-- 📫 How to reach me **angelsaka@yahoo.com**
+- 📫 How to reach me **sakam3@mcmaster.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
