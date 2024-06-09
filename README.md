@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel Saka</h1>
-<h3 align="center">A passionate software engineering student from Ontario</h3>
+<h3 align="center">A software engineering student at McMaster University</h3>
 
 - 🌱 I’m currently learning **different technical skills and languages (Data Structures & Algorithms, Java)**
 
